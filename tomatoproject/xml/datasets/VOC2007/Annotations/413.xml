@@ -1,0 +1,56 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>413.jpg</filename>
+	<source>
+		<database>The Defect Detection</database>
+		<annotation>Defect Detection</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>WZZ</name>
+	</owner>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277.0</xmin>
+			<ymin>620.7311827956989</ymin>
+			<xmax>382.3763440860215</xmax>
+			<ymax>756.2150537634408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477.0</xmin>
+			<ymin>689.5483870967741</ymin>
+			<xmax>575.9247311827957</xmax>
+			<ymax>827.1827956989247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187.752688172043</xmin>
+			<ymin>35.784946236559136</ymin>
+			<xmax>281.30107526881716</xmax>
+			<ymax>139.01075268817203</ymax>
+		</bndbox>
+	</object>
+</annotation>

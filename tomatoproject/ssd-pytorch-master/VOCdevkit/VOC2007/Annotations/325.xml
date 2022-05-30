@@ -1,0 +1,44 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>325.jpg</filename>
+	<source>
+		<database>The Defect Detection</database>
+		<annotation>Defect Detection</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>WZZ</name>
+	</owner>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351.1935483870967</xmin>
+			<ymin>122.88172043010752</ymin>
+			<xmax>485.6021505376343</xmax>
+			<ymax>296.0</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396.35483870967744</xmin>
+			<ymin>241.16129032258064</ymin>
+			<xmax>573.7741935483871</xmax>
+			<ymax>487.39784946236557</ymax>
+		</bndbox>
+	</object>
+</annotation>

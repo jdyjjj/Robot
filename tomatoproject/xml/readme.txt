@@ -1,0 +1,3 @@
+python批量将json文件转换成xml文件
+其中labeljson文件夹下放标注的json文件，trainset文件夹下面放标注的jpg和json文件
+最终生成的xml文件会放在Annotations下
